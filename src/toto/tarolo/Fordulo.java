@@ -1,7 +1,6 @@
 package toto.tarolo;
 
 import java.time.LocalDate;
-import java.util.ArrayList;
 
 public class Fordulo {
 private int ev;
